@@ -1,11 +1,5 @@
 # Airbnb Database Normalization to 3NF
 
-## 🎯 Objective
-
-Apply normalization principles to ensure the Airbnb-style database is in **Third Normal Form (3NF)** by identifying redundancies, removing transitive dependencies, and ensuring each non-key attribute depends only on the primary key.
-
----
-
 ## ✅ Step-by-Step Normalization
 
 ### 🔹 First Normal Form (1NF)
