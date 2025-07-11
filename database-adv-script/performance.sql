@@ -1,4 +1,5 @@
--- Initial complex query: join bookings with user, property, and payment details
+-- EXPLAIN the initial complex query for performance analysis
+EXPLAIN ANALYZE
 SELECT 
     b.booking_id,
     b.start_date,
